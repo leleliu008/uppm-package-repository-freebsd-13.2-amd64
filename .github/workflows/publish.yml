@@ -22,9 +22,9 @@ jobs:
 
       - name: create ${{ matrix.pkg }}.yml
         run: |
-          PACKAGE_SUMMARY="$(./ppkg receipt ${{ matrix.pkg }} summary)"
-          PACKAGE_VERSION="$(./ppkg receipt ${{ matrix.pkg }} version)"
-          PACKAGE_WEB_URL="$(./ppkg receipt ${{ matrix.pkg }} web-url)"
+          PACKAGE_SUMMARY="$(./ppkg receipt freebsd-13.2-amd64/${{ matrix.pkg }} summary)"
+          PACKAGE_VERSION="$(./ppkg receipt freebsd-13.2-amd64/${{ matrix.pkg }} version)"
+          PACKAGE_WEB_URL="$(./ppkg receipt freebsd-13.2-amd64/${{ matrix.pkg }} web-url)"
 
           PACKAGE_BIN_FILENAME="${{ matrix.pkg }}-$PACKAGE_VERSION-freebsd-13.2-amd64.tar.xz"
 
