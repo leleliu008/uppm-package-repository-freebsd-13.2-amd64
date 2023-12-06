@@ -17,8 +17,8 @@ jobs:
       - run: chmod a+x ppkg
       - run: ./ppkg setup
       - run: ./ppkg update
-      - run: ./ppkg install ${{ matrix.pkg }} --target=freebsd-13.2-amd64 --link-type=static-full
-      - run: ./ppkg pack    ${{ matrix.pkg }}
+      - run: ./ppkg install freebsd-13.2-amd64/${{ matrix.pkg }} --link-type=static-full
+      - run: ./ppkg pack    freebsd-13.2-amd64/${{ matrix.pkg }}
 
       - name: create ${{ matrix.pkg }}.yml
         run: |
