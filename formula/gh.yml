@@ -1,0 +1,5 @@
+summary: GitHub official command-line tool
+webpage: https://github.com/cli/cli
+version: 2.38.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.07/gh-2.38.0-freebsd-13.2-amd64.tar.xz 
+bin-sha: 1c3e1e5bcff2d3831e4a25d66ce14d153a6331b21d20e70deb5ae8eb0734a218

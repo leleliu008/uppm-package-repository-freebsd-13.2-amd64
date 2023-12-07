@@ -1,0 +1,5 @@
+summary: GNU awk utility
+webpage: https://www.gnu.org/software/gawk
+version: 5.3.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.07/gawk-5.3.0-freebsd-13.2-amd64.tar.xz 
+bin-sha: 55335e0dd6e5292ed54a1f8f70de3878a71d66ec1438bdfb3aad23fc8c97f5a2

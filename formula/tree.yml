@@ -1,0 +1,5 @@
+summary: Display directories as trees (with optional color/HTML output)
+webpage: http://mama.indstate.edu/users/ice/tree
+version: 2.1.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.07/tree-2.1.1-freebsd-13.2-amd64.tar.xz 
+bin-sha: d1bb6fd7323e345286cd00ebca449f41bf2c993f9ba742312acb7ebb9975d876

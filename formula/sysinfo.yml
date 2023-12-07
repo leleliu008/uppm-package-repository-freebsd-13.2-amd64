@@ -1,0 +1,5 @@
+summary: a command-line tool to get your system information.
+webpage: https://github.com/leleliu008/C-examples
+version: 2023.12.07 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.07/sysinfo-2023.12.07-freebsd-13.2-amd64.tar.xz 
+bin-sha: b250a21395af87afef9c3c6115d71d80cf715c6642365fd07bcf67cbdf886bc3

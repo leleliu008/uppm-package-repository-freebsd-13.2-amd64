@@ -1,0 +1,5 @@
+summary: 7-Zip (high compression file archiver) implementation
+webpage: https://github.com/jinfeihan57/p7zip
+version: 17.05 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.07/p7zip-17.05-freebsd-13.2-amd64.tar.xz 
+bin-sha: ac512340f1240bc62578ecfbe067b70da7e89df16c175a6614c12135ba8ee9c7

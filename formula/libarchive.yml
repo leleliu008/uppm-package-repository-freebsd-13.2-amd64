@@ -1,0 +1,5 @@
+summary: Multi-format archive and compression library
+webpage: https://www.libarchive.org/
+version: 3.7.2 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.07/libarchive-3.7.2-freebsd-13.2-amd64.tar.xz 
+bin-sha: 04c31bfb12586d2a7fa250e3f45ce2fc4acc833ffb1df65f25b2d5e7a6fc4c48

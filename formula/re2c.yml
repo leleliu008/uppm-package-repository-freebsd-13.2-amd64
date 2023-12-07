@@ -1,0 +1,5 @@
+summary: Generate C-based recognizers from regular expressions
+webpage: https://re2c.org/
+version: 3.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.07/re2c-3.1-freebsd-13.2-amd64.tar.xz 
+bin-sha: 2a9eadc58cd894574cbc34284597887c26e7db6e2db34512f93155d480a5b5ed
