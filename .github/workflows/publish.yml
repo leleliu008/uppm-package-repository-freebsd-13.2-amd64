@@ -195,6 +195,11 @@ jobs:
 
       - uses: actions/download-artifact@v3
         with:
+          name: lz4
+          path: .
+
+      - uses: actions/download-artifact@v3
+        with:
           name: nasm
           path: .
 
@@ -270,6 +275,11 @@ jobs:
 
       - uses: actions/download-artifact@v3
         with:
+          name: yq
+          path: .
+
+      - uses: actions/download-artifact@v3
+        with:
           name: zip
           path: .
 
@@ -296,6 +306,11 @@ jobs:
       - uses: actions/download-artifact@v3
         with:
           name: base64
+          path: .
+
+      - uses: actions/download-artifact@v3
+        with:
+          name: bsdtar
           path: .
 
       - uses: actions/download-artifact@v3
