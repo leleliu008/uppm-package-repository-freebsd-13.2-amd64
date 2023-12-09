@@ -1,0 +1,5 @@
+summary: Extremely Fast Compression algorithm
+webpage: http://www.lz4.org/
+version: 1.9.4 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/lz4-1.9.4-freebsd-13.2-amd64.tar.xz 
+bin-sha: 6960cc684c1e2aa4b75b20a2c8ebf9b4e23c5d87174135abcd6980b25a41c241

@@ -1,5 +1,5 @@
 summary: Get a file from an HTTP, HTTPS or FTP server
 webpage: https://curl.haxx.se/
-version: 8.3.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.07/curl-8.3.0-freebsd-13.2-amd64.tar.xz 
-bin-sha: 442ec3db519fb7de09d18290f6e5b8cdb6dca7f8bc23b9b26aaf081ed782bef7
+version: 8.5.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/curl-8.5.0-freebsd-13.2-amd64.tar.xz 
+bin-sha: 313624211d138a85fa5acea2f51c5fdce0e8da54216db13a79ba70d5fce3066e

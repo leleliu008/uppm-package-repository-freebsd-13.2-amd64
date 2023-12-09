@@ -1,5 +1,5 @@
 summary: A general purpose data compression library
 webpage: https://zlib.net/
 version: 1.3 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.07/zlib-1.3-freebsd-13.2-amd64.tar.xz 
-bin-sha: 6c670368ad1cc5fc6ff4764e3569ba63dacab1de8078db19f608e3d9fbeb3957
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/zlib-1.3-freebsd-13.2-amd64.tar.xz 
+bin-sha: 8b4b99d3c38d6c5c54d1ca593f6c66889b39d9cf8693b8e82840007aa2fc26ee

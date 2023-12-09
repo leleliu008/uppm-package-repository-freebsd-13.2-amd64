@@ -1,5 +1,5 @@
 summary: Cryptography and SSL/TLS Toolkit
 webpage: https://www.openssl.org/
 version: 3.1.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.07/openssl-3.1.1-freebsd-13.2-amd64.tar.xz 
-bin-sha: ad4e9ea6684c8dedd1205e6151be89dd761f7f03ab4e1859720354a1152dd9f0
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/openssl-3.1.1-freebsd-13.2-amd64.tar.xz 
+bin-sha: a2cf9e75617dbc39829e368de433079eef257d47bfaa6003e7944f177e5723f6

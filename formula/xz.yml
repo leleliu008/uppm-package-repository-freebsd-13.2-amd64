@@ -1,5 +1,5 @@
 summary: General-purpose data compression with high compression ratio
 webpage: https://tukaani.org/xz
 version: 5.4.5 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.07/xz-5.4.5-freebsd-13.2-amd64.tar.xz 
-bin-sha: 69910b0e64106dd3f53cb242553ba695bb80aff47abf33b8af8ad0998cb3edfd
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/xz-5.4.5-freebsd-13.2-amd64.tar.xz 
+bin-sha: eda38d3605a13d4246cd7d3ae092f97dabd36f6a11ac4cce41f8f326f3932ee2

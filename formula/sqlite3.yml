@@ -1,5 +1,5 @@
 summary: A small, fast, self-contained, high-reliability, full-featured, SQL database engine written in C
 webpage: https://www.sqlite.org/
 version: 3.44.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.07/sqlite3-3.44.0-freebsd-13.2-amd64.tar.xz 
-bin-sha: 3208b65b875f1b7e993e2920341f8b70e0dc893c45f2b99b643f8e0c2313d3a6
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/sqlite3-3.44.0-freebsd-13.2-amd64.tar.xz 
+bin-sha: 1dc0825c3d2585243b1e0c71474f575e73da23d97960ceffa5691e410219e943
