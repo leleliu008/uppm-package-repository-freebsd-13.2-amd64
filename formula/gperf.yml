@@ -1,5 +1,5 @@
 summary: Perfect hash function generator
 webpage: https://www.gnu.org/software/gperf
 version: 3.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/gperf-3.1-freebsd-13.2-amd64.tar.xz 
-bin-sha: 4f2e00316535aff4ac1a9e19fa3088657799fae7d802ecb169d3b9a8fb170eab
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.10/gperf-3.1-freebsd-13.2-amd64.tar.xz 
+bin-sha: 88490a547a319e844e0a9f65be5c59a0202ef3a69cb713db26082aab673b3100

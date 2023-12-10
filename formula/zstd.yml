@@ -1,5 +1,5 @@
 summary: Zstandard is a real-time compression algorithm
 webpage: https://facebook.github.io/zstd
 version: 1.5.5 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/zstd-1.5.5-freebsd-13.2-amd64.tar.xz 
-bin-sha: f45e6005345d4b4c7f1d2ba34a100fbf7a31e726962eb14a993f6f9968ed409d
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.10/zstd-1.5.5-freebsd-13.2-amd64.tar.xz 
+bin-sha: 3240c6e975936b1f201fa95742162de343142db64ee77f0478fd8a646df54142

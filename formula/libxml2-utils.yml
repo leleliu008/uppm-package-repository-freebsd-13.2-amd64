@@ -1,5 +1,5 @@
 summary: utilities provided by libxml2
 webpage: http://xmlsoft.org
 version: 2.11.4 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/libxml2-utils-2.11.4-freebsd-13.2-amd64.tar.xz 
-bin-sha: 0191d7c65cb2ac0fe4a0af93c65149667466975df1e1d7cb430c61381e4edcc9
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.10/libxml2-utils-2.11.4-freebsd-13.2-amd64.tar.xz 
+bin-sha: 43446e8d38ea15f6c31d5430469f6df77f7607fdb223593a3403a2e4f8527077

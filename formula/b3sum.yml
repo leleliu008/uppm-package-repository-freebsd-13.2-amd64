@@ -1,5 +1,5 @@
 summary: BLAKE3 cryptographic hash function
 webpage: https://github.com/BLAKE3-team/BLAKE3
 version: 1.4.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/b3sum-1.4.1-freebsd-13.2-amd64.tar.xz 
-bin-sha: d8438b0b7ee5187e3f95bd0d227d0b9fd419014bd7d022bc5c3ace519bf3c9b0
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.10/b3sum-1.4.1-freebsd-13.2-amd64.tar.xz 
+bin-sha: 82d9c64ac662d0321554520cff5c20cc18efef6e67008c8acef242ddca2ec340

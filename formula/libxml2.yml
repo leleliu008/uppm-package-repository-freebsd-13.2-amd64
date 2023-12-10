@@ -1,5 +1,5 @@
 summary: GNOME XML library
 webpage: http://xmlsoft.org
 version: 2.11.5 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/libxml2-2.11.5-freebsd-13.2-amd64.tar.xz 
-bin-sha: 728e6140a1ef0765c58aa50e8f94afead51378d22ce1b67aa719f20369959158
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.10/libxml2-2.11.5-freebsd-13.2-amd64.tar.xz 
+bin-sha: 2eacbb1fe3243f9577c257ba3b739a235516b6befe9192d43cad4d822f70f9e7
