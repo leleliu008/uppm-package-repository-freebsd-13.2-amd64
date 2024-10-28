@@ -1,0 +1,5 @@
+summary: Command-line fuzzy finder written in Go
+webpage: https://github.com/junegunn/fzf
+version: 0.54.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.10/fzf-0.54.3-freebsd-13.2-amd64.tar.xz
+bin-sha: d13c4e1e64083d45e05121bbd92cb6f4a56c0c96eb422ab83bd15b4fd7f29432
