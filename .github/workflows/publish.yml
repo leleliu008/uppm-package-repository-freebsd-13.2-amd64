@@ -8,7 +8,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [bash, base16, base64, bat, bsdtar, bc, bison, bmake, bzip2, b3sum, cmake, coreutils, curl, darkhttpd, diffutils, dos2unix, doxygen, ed, file, figlet, flex, flock, findutils, fzf, gawk, getopt, gettext-tools, gh, gindent, git, glib-tools, gm4, gmake, gn, go-md2man, golang, gperf, grep, gsed, gtar, gzip, jq, lolcat, lzip, lz4, nasm, ninja, openssl, orcc, p7zip, patchelf, patch, pkgconf, re2c, rsync, sassc, scdoc, swig, sqlite3, sysinfo, tic, tree, trietool, uctags, unzip, uppm, xsltproc, xmake, xmlutils, xxd, xz, yq, zip, zstd, zoxide]
+        pkg: [bash, base16, base64, bat, bsdtar, bc, bison, bmake, bzip2, b3sum, cmake, coreutils, curl, d2, darkhttpd, diffutils, dos2unix, dot_static, doxygen, ed, file, figlet, flex, flock, findutils, fzf, gawk, getopt, gettext-tools, gh, gindent, git, glib-tools, gm4, gmake, gn, go-md2man, golang, gperf, grep, gsed, gtar, gzip, jq, lolcat, lzip, lz4, nasm, ninja, openssl, orcc, p7zip, patchelf, patch, pkgconf, re2c, rsync, sassc, scdoc, swig, sqlite3, sysinfo, tic, tree, trietool, uctags, unzip, uppm, xsltproc, xmake, xmlutils, xxd, xz, yq, zip, zstd, zoxide]
 
     runs-on: ubuntu-latest
 
