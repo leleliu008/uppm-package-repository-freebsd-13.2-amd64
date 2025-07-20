@@ -19,7 +19,7 @@ jobs:
       - uses: cross-platform-actions/action@master
         with:
           operating_system: freebsd
-          version: ${{ matrix.version }}
+          version: '13.2'
           shell: bash
           run: |
             run() {
