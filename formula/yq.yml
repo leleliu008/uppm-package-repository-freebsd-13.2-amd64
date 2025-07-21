@@ -1,5 +1,5 @@
 summary: A lightweight and portable command-line YAML processor
 webpage: https://mikefarah.gitbook.io/yq
 version: 4.45.4 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2025.07.21/yq-4.45.4-freebsd-13.2-amd64.tar.xz 
-bin-sha: 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2025.07.21/yq-4.45.4-freebsd-13.2-amd64.release.tar.xz 
+bin-sha: f61dc3607f06ae45d97515ea1a13535a67cad114977ac92cdde03472f49d757f

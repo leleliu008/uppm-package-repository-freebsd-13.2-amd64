@@ -1,5 +1,5 @@
 summary: Render markdown on the CLI
 webpage: https://github.com/charmbracelet/glow
 version: 2.1.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2025.07.21/glow-2.1.1-freebsd-13.2-amd64.tar.xz 
-bin-sha: 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2025.07.21/glow-2.1.1-freebsd-13.2-amd64.release.tar.xz 
+bin-sha: ad85a55eb7d3dfe8bfe1c59d72d264ef6ef06bac9d7011efd72a97df4be511cc

@@ -1,5 +1,5 @@
 summary: Compression and file packaging/archive utility
 webpage: https://infozip.sourceforge.io/Zip.html
 version: 3.0.11 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2025.07.21/zip-3.0.11-freebsd-13.2-amd64.tar.xz 
-bin-sha: 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2025.07.21/zip-3.0.11-freebsd-13.2-amd64.release.tar.xz 
+bin-sha: 43b0a2c447e191776ecaa489fbd380436441d8a50e6465700b7d5d81f4547b49

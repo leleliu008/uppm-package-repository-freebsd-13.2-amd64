@@ -1,5 +1,5 @@
 summary: Yacc-compatible Parser generator
 webpage: https://www.gnu.org/software/bison
 version: 3.8.2 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2025.07.21/bison-3.8.2-freebsd-13.2-amd64.tar.xz 
-bin-sha: 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2025.07.21/bison-3.8.2-freebsd-13.2-amd64.release.tar.xz 
+bin-sha: ab307d0597d061fcc7c9006d457df6201cb2a5bccbf1e0d21fde44061d32c215
