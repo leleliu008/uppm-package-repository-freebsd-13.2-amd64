@@ -95,7 +95,7 @@ jobs:
 
           sed -i "s|@TAGNAME@|$TAGNAME|" formula/*.yml
 
-          gh release create "$TAGNAME" *.tar.xz sha256sums.txt --title "$TAGNAME" --notes-file notes.md
+          gh release create "$TAGNAME" *.tar.xz --title "$TAGNAME" --notes-file notes.md
 
           git config --global user.name  leleliu008
           git config --global user.email leleliu008@gmail.com
