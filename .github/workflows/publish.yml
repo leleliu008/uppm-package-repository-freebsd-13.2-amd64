@@ -36,9 +36,11 @@ jobs:
             PACKAGE_VERSION="$(./ppkg info-installed freebsd-13.2-amd64/${{ matrix.pkg }} version)"
             PACKAGE_WEB_URL="$(./ppkg info-installed freebsd-13.2-amd64/${{ matrix.pkg }} web-url)"
 
-            PACKAGE_BIN_FILENAME="${{ matrix.pkg }}-$PACKAGE_VERSION-freebsd-13.2-amd64.tar.xz"
+            PACKAGE_BIN_FILENAME="${{ matrix.pkg }}-$PACKAGE_VERSION-freebsd-13.2-amd64.release.tar.xz"
 
-            PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_BIN_FILENAME" | cut -d ' ' -f1)"
+            SHA256SUM="$(sha256sum "$PACKAGE_BIN_FILENAME")"
+
+            PACKAGE_BIN_SHA="${SHA256SUM%%' '*}"
 
             PACKAGE_BIN_URL="https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/@TAGNAME@/$PACKAGE_BIN_FILENAME"
 
