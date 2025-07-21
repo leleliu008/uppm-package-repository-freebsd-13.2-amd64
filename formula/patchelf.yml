@@ -1,5 +1,5 @@
 summary: A small utility to modify ELF files
 webpage: https://github.com/NixOS/patchelf
 version: 0.18.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.10/patchelf-0.18.0-freebsd-13.2-amd64.tar.xz 
-bin-sha: 7e44d3951444cbcf6faa747b4a51eef34ef7bfdb7289f379b356064c451cf52b
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2025.07.21/patchelf-0.18.0-freebsd-13.2-amd64.tar.xz 
+bin-sha: 

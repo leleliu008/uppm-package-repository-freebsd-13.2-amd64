@@ -1,5 +1,5 @@
 summary: A small build system with a focus on speed
 webpage: https://ninja-build.org/
-version: 1.11.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.10/ninja-1.11.1-freebsd-13.2-amd64.tar.xz 
-bin-sha: bb2f0c9d0d2d0dd22f6e623d3d5d6c26ede3b1b882252c17cfd6b09e2888c6c1
+version: 1.12.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2025.07.21/ninja-1.12.1-freebsd-13.2-amd64.tar.xz 
+bin-sha: 

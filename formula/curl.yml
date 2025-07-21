@@ -1,5 +1,5 @@
-summary: Get a file from an HTTP, HTTPS or FTP server
+summary: A command-line tool for transferring data from/to an HTTP, HTTPS or FTP server
 webpage: https://curl.haxx.se/
-version: 8.5.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.10/curl-8.5.0-freebsd-13.2-amd64.tar.xz 
-bin-sha: 773158b28bff7eed635250a03c653926e4764c869f929844cc3a68dda53a2527
+version: 8.14.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2025.07.21/curl-8.14.1-freebsd-13.2-amd64.tar.xz 
+bin-sha: 

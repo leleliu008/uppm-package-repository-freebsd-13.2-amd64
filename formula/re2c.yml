@@ -1,5 +1,5 @@
-summary: Generate C-based recognizers from regular expressions
+summary: A free and open-source lexer generator for C/C++, Go and Rust with a focus on generating fast code
 webpage: https://re2c.org/
-version: 3.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.10/re2c-3.1-freebsd-13.2-amd64.tar.xz 
-bin-sha: 7c918f8e1aaea288263012fa8b73dfa149f38b5755f2a9c7f6f2dfc102304941
+version: 4.2 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2025.07.21/re2c-4.2-freebsd-13.2-amd64.tar.xz 
+bin-sha: 

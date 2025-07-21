@@ -1,5 +1,5 @@
 summary: Classic UNIX line editor
 webpage: https://www.gnu.org/software/ed/ed.html
-version: 1.19 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.10/ed-1.19-freebsd-13.2-amd64.tar.xz 
-bin-sha: 37f64e74048522c8ce3b048a19ac9bce36b3a01cca4e561fcbc723136b3c1b5d
+version: 1.20.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2025.07.21/ed-1.20.1-freebsd-13.2-amd64.tar.xz 
+bin-sha: 
